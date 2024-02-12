@@ -1,0 +1,39 @@
+1) Some of the earliest computing languages supported: 
+- objects and classes
+- abstract data types 
+- local variables
+- main program and subroutines
+
+ANSWER: main program and subroutines
+
+2) What are some advantages of object-oriented programming in a language like Java? Choose the three correct answers.
+- mimic the real-world structure of the problem 
+- computing efficiency
+- abstract data types 
+- data management 
+
+ANSWER: - mimic the real-world structure of the problem 
+		- abstract data types 
+		- data management 
+		
+3) Sam was asked to create a DeliveryDriver class. Sam thought about the problem, and reduced it to its most essential aspects… things like takeOrder,
+DeliveryArea, etc. She ignored things that were not important in the context, like the driver's height or eye colour. 
+She just applied an important object-oriented design principle. Which of these concepts best describes what she just did?
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/be5CEnPnEeewexKhHrUb5g_a65555ccd92a02785e2697e3d7f07fbc_C1-Quiz2-Q3.png?expiry=1707868800000&hmac=g_PNknoYmFApbesOJd79XMqo7y8iIuQXhD9_4vA0gDo
+- encapsulation
+- decomposition 
+- generalization 
+- abstraction
+
+ANSWER: abstraction
+
+4) Sam identified the important attributes and behaviours of a delivery driver and put them all into a DeliveryDriver class, like "takeOrder", "deliverOrder",
+and "DeliveryArea." She exposed some of these to other classes. She just demonstrated an important part of object-oriented design. Which of these 
+concepts best describes what you did?
+- abstraction
+- generalization
+- decomposition
+- encapsulation
+
+ANSWER: 
+
