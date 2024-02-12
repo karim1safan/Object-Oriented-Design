@@ -1,0 +1,141 @@
+1) Which of these are desirable characteristics of a software design? Choose the three correct answers.
+
+a) reusability
+b) maintainability
+c) tight coupling
+d) flexible
+
+ANSWER: a) reusability
+	    b) maintainability
+		c) flexible
+		
+--------------------------------------------------------------------------------------------------------
+
+2) Identify two outcomes of the design process. Choose the two correct answers.
+
+a) code implementation
+b) technical design
+c) conceptual design
+d) design plan
+
+ANSWER: b) technical design
+	    c) conceptual design
+	    
+--------------------------------------------------------------------------------------------------------
+
+3) You are writing out a CRC card for a bank machine component. Under which section should you put "Track Cash Remaining."
+
+a) Risk
+b) Responsibility
+c) Collaborator
+d) Class
+
+ANSWER: b) Responsibility
+
+--------------------------------------------------------------------------------------------------------
+
+4) Which two of these are likely to be  a part of conceptual design?
+
+a) Abstract data types
+b) Mockups
+c) CRC Cards
+d) Methods
+
+ANSWER: b) Mockups
+	    c) CRC Cards
+		
+--------------------------------------------------------------------------------------------------------
+
+5) When during the design process are you likely to produce CRC cards the most?
+
+a) technical design 
+b) conceptual design
+c) customer meetings 
+d) after releasing the software 
+
+ANSWER: b) conceptual design
+
+--------------------------------------------------------------------------------------------------------
+
+6) Which of the following are examples of non-functional requirements? Choose the three correct answers.
+
+a) security
+b) purpose
+c) performance
+d) availability
+
+ANSWER: a) security
+		c) performance
+		d) availability
+		
+--------------------------------------------------------------------------------------------------------
+
+7) Select the three categories of objects generally present in object-oriented software.
+
+a) tool
+b) control
+c) boundary
+d) entity
+
+ANSWER: b) control
+		c) boundary
+		d) entity
+		
+--------------------------------------------------------------------------------------------------------
+
+8) An object which is responsible for showing data to the user could be considered which category of object?
+
+a) entity
+b) boundary
+c) control
+d) representation 
+
+ANSWER: b) boundary
+
+--------------------------------------------------------------------------------------------------------
+
+9) You are planning a Professor class as part of your software design. Which of these will you consider a collaborator ? Choose the two correct answers.
+
+a) Course
+b) Teach Course
+c) Track Employment Status
+d) Student
+
+ANSWER: a) Course
+		d) Student
+
+--------------------------------------------------------------------------------------------------------
+
+10) What is a requirement of this form called? "As a ____, I want to ____, so that ____".
+
+a) entity abstraction
+b) key concept 
+c) conceptual mockup
+d) user story
+
+ANSWER: d) user story
+
+--------------------------------------------------------------------------------------------------------
+
+11) You are a programmer creating software for a bank machine system. Which section of a CRC card for the bank machine component will the "User" go into?
+
+
+a) Class
+b) Responsibility
+c) Object
+d) Collaborator 
+
+ANSWER: d) Collaborator
+
+--------------------------------------------------------------------------------------------------------
+
+During conceptual design, you will talk about... (Choose the three correct answers):
+
+a) technical digrams
+b) requirements
+c) tradeoffs
+d) mockup
+
+ANSWER: b) requirements
+		c) tradeoffs
+		d) mockup
