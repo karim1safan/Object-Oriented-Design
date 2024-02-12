@@ -1,0 +1,57 @@
+1) What is the correct syntax for initializing a variable named dog, of type String, with the value "BARK"?
+
+- String dog = "BARK";
+- "BARK" = String dog;
+- int dog = "BARK";
+- dog = "BARK";
+
+ANSWER: String dog = "BARK";
+
+--------------------------------------------------------------------------------------------------------
+
+2) Look at the following line of code:
+int[] myList = { 1, 2, 3, 4, 5 };
+What is the proper way to access the array element with the value 3?
+
+- myList["two"];
+- myList[2];
+- myList[3];
+- myList.3
+
+ANSWER: myList[2];
+
+--------------------------------------------------------------------------------------------------------
+
+3) Look at the following code:
+int i = 4;
+if (i <= 3) {
+    i = 0;
+} else if (i <= 6) {
+    i = 1;
+} else {
+    i = 2;
+}
+What value would i be after this if then else statement?
+
+- 0
+- 2
+- NULL
+- 1
+
+ANSWER: 1
+
+--------------------------------------------------------------------------------------------------------
+
+4) Look at the following function:
+public String reverseName( String name1, String name2 ) {
+    String reversed = name2 + ", " + name1;
+    return reversed;
+}
+Which is the proper way to call this function?
+
+- reverseName( "John", "Doe" )
+- reverseName()
+- ReverseName( "John", "Doe" )
+- reverseName( "John", 100)
+
+ANSWER: reverseName( "John", "Doe" )
