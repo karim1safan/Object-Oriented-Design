@@ -1,0 +1,124 @@
+1) What would be the output of this code?:
+
+int age;
+age = age + 7;
+System.out.println( "My age is: " + age );
+
+a) This will not compile because age is not initialized with a value.
+b) My age is : null
+c) This will not compile because you cannot add a string and integer value together.
+d) My age is: 7
+
+ANSWER: a) This will not compile because age is not initialized with a value.
+
+--------------------------------------------------------------------------------------------------------
+
+2) How many times will "Hello" be printed out?:
+
+int i = 1;
+while (i <= 3) {
+    System.out.println( "Hello" );
+    if ( i < 2 ) {
+        System.out.println( "Hello" );
+    }
+    i++;
+}
+
+a) 2
+b) 5
+c) 4
+d) 0
+
+ANSWER: c) 4
+ 
+--------------------------------------------------------------------------------------------------------
+
+3) Look at the following code:
+
+class Person {
+    public void talk() {
+        System.out.println( "Hello" );
+    }
+}
+
+class Baby extends Person {
+    public void talk() {
+        System.out.println( "Goo goo" );
+    }
+}
+
+class Boy extends Person {
+    public void hi() {
+        System.out.println( "hi" );
+    }
+}
+
+public class Test{
+    public static void main( String args[] ) {
+        Person p1 = new Person();
+        p1.talk();
+    
+        Baby b1 = new Baby();
+        b1.talk();
+    
+        Boy b2 = new Boy();
+        b2.talk();
+        b2.hi();
+    }
+}
+
+What would be the output of running the code above?
+
+a) Hello
+   Goo goo
+   hi
+   hi
+b) Error, because the Boy class does not have the method talk.
+c) Hello
+   Goo goo
+   Hello
+   hi
+d) There will be no output since these are just class definitions.
+
+ANSWER: c) Hello
+		   Goo goo
+		   Hello
+		   hi
+		   
+--------------------------------------------------------------------------------------------------------
+
+4) Look at the following lines of code:
+
+interface MyInterface {
+    public void method1();
+    public void method2();
+}
+
+class MyClass implements MyInterface {
+    public void method1() {
+        System.out.println( "method 1" );
+    }
+}
+
+public class Test {
+    public static void main( String args[] ) {
+        MyClass c1 = new MyClass();
+        c1.method1();
+        c1.method2();
+    }
+}
+
+What would be the output of running the code above?
+
+
+a) There will be no output since these are just classes definitions.
+b) Error because there is no method2 defined in MyClass. Because this class implements MyInterface, it must define all methods that are in the interface.
+
+c) method 1
+   method 2
+   
+d) method 1
+   method 1
+
+ANSWER: b) Error because there is no method2 defined in MyClass. Because this class implements MyInterface, it must define all methods that are in the interface.
+
