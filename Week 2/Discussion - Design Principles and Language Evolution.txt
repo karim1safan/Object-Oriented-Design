@@ -1,0 +1,7 @@
+Design Reviews and Refactoring:
+	- Conduct regular design reviews with team members to evaluate the coupling and cohesion of your code.
+	- Use refactoring techniques to improve the design by reducing coupling and increasing cohesion where necessary.
+
+Use Design Patterns:
+	- Apply design patterns such as Dependency Injection, Observer, and Strategy to decouple components and promote cohesive designs.
+	- Design patterns provide proven solutions to common design problems and often lead to more maintainable and flexible code.
