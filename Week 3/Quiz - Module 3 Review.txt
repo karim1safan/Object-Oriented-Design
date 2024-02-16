@@ -1,0 +1,145 @@
+1) Which of these terms are used to describe coupling? Choose the 3 correct answers.
+
+a) exposed 
+b) flexibility
+c) degree
+d) ease
+e) frequency
+
+ANSWER: b) flexibility
+		c) degree
+		d) ease	
+
+--------------------------------------------------------------------------------------------------------
+
+2) Which is the most desirable?
+
+a) high cohesion, tight coupling
+b) low cohesion, loose coupling 
+c) high cohesion, loose coupling
+d) low cohesion, tight coupling
+
+ANSWER: c) high cohesion, loose coupling
+
+--------------------------------------------------------------------------------------------------------
+
+3) What are some keywords you might use for information hiding in Java? Select the three correct answers.
+
+a) abstract
+b) private
+c) [none]
+d) protected
+
+ANSWER: b) private
+		c) [none]
+		d) protected
+
+--------------------------------------------------------------------------------------------------------
+
+4) What are the best ways to promote Conceptual Integrity in your software? Choose the two correct answers.
+
+a) Regular code reviews 
+b) Delegating development of different components to different teams
+c) Good commenting
+d) Planning the architecture of the system
+
+ANSWER: d) Planning the architecture of the system
+
+--------------------------------------------------------------------------------------------------------
+
+5) Information Hiding is closely related to one of the core design principles of object-oriented design. Which one?
+
+a) decomposition
+b) encapsulation
+c) abstraction
+d) generalization
+
+ANSWER: b) encapsulation
+
+--------------------------------------------------------------------------------------------------------
+
+6) Which of these sequence diagrams is correct?
+
+a) Figuer 1
+b) Figuer 2
+c) Figuer 3
+d) Figuer 4
+
+ANSWER: b) Figuer 2
+
+--------------------------------------------------------------------------------------------------------
+
+7) What are elements of a state in a State diagram (see diagram)? Choose the three correct answers.
+
+a) responsibilities
+b) activities
+c) events
+d) state variables
+e) state name
+
+ANSWER: b) activities
+		d) state variables
+		e) state name
+		
+--------------------------------------------------------------------------------------------------------
+
+8) When is Model Checking conducted?
+
+a) During development
+b) During planning
+c) After deployment
+d) After development
+
+ANSWER: d) After development, BUT before deployment
+
+--------------------------------------------------------------------------------------------------------
+
+9) What are the phases of Model Checking? Choose the 3 correct answers.
+
+a) Modeling Phase
+b) Counterexample Phase
+c) Model Simulations
+d) Analysis Phase
+e) Running Phase
+
+ANSWER: a) Modeling Phase
+		d) Analysis Phase
+		e) Running Phase
+
+--------------------------------------------------------------------------------------------------------
+
+10) During model checking, what is the name for a violation of the desired properties of the model?
+
+a) Redevelopment
+b) Model Gap
+c) Counterexample
+d) Error
+
+ANSWER: c) Counterexample
+
+--------------------------------------------------------------------------------------------------------
+
+11) When two processes cannot run because they are waiting on the same resource, it's called…
+
+a) Transition lock
+b) State lock
+c) Mutual lock
+d) Deadlock
+
+ANSWER: d) Deadlock
+
+--------------------------------------------------------------------------------------------------------
+
+12) Choose the three examples of inheritance used poorly:
+
+a) A subclass inherits methods from the superclass and adds extra, new, unrelated functionality
+b) A method in the superclass is overwritten with different behaviour by a subclass.
+c) The subclasses inherit methods from the superclass and have their own specific, related methods.
+d) Inheritance is used to share behaviour without specializing 
+
+ANSWER: a) A subclass inherits methods from the superclass and adds extra, new, unrelated functionality
+		b) A method in the superclass is overwritten with different behaviour by a subclass.
+		d) Inheritance is used to share behaviour without specializing 
+
+
+
